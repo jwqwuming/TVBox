@@ -1,23 +1,23 @@
 #EXTM3U x-tvg-url="https://epg.erw.cc/e.xml,https://epg.112114.xyz/pp.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #📺央视频道·IPv6
-CCTV1,http://135.148.104.228:19806/5cb2056ba225422aab04f0ff6c1a1ad9
-CCTV2,http://135.148.104.228:19806/1c7a2a5c0c384637bb942eb49cc1e0ee
-CCTV3,http://135.148.104.228:19806/18330ef800b2458892c9761dab67e610
-CCTV4,http://135.148.104.228:19806/53697021440d41b180890cab9ba1cd96
-CCTV5,http://135.148.104.228:19806/0126636bbd494267ae7f17c8abc8521f
-CCTV5+,http://135.148.104.228:19806/631fd43e577344b6ab6bd628dfa384ca
-CCTV6,http://135.148.104.228:19806/8cf06c01d4a14947a753a183865d1031
-CCTV7,http://135.148.104.228:19806/06fccec521bf42c29c0803f7a4c40c03
-CCTV8,http://135.148.104.228:19806/890497d5070b48069ec157bbb85e27bf
-CCTV9,http://135.148.104.228:19806/bd1be015bfe94e53aab75e8b4a12bfe1
-CCTV10,http://135.148.104.228:19806/798b628cc31d4534aa26f8d4a2219fb7
-CCTV11,http://135.148.104.228:19806/5cf4c63b2eaf43cd80d6cccbbb9ae91d
-CCTV12,http://135.148.104.228:19806/0fccd849c85946e9bed8273fde548d57
-CCTV13,http://135.148.104.228:19806/65926086b49b4fc4b6f29aab1d497f35
-CCTV14,http://135.148.104.228:19806/bf1a9f45f37f49568953fe97efe2ccb9
-CCTV15,http://135.148.104.228:19806/3777f550472d4b91a5bbf76a74580cec
-CCTV16,http://135.148.104.228:19806/c2001475104d47b9815a8c3e5e73a761
+CCTV-1 综合,http://[2409:8087:7000:20::11]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
+CCTV-2 财经,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8
+CCTV-3 综艺,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+CCTV-4 中文国际,http://[2409:8087:7000:20::204]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
+CCTV-5 体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV-5+ 体育赛事,http://[2409:8087:7000:20::203]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
+CCTV-6 电影,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
+CCTV-7 国防军事,http://[2409:8087:7001:20:3::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/index.m3u8
+8CCTV-8 电视剧,http://[2409:8087:7001:20:3::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+CCTV-9 纪录,http://[2409:8087:7001:20:3::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/index.m3u8
+CCTV-10 科教,http://[2409:8087:7001:20:3::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/index.m3u8
+CCTV-11 戏曲,http://[2409:8087:7001:20:3::5]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/index.m3u8
+CCTV-12 社会与法,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/index.m3u8
+CCTV-13 新闻,http://[2409:8087:7001:20:3::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/index.m3u8
+CCTV-14 少儿,http://[2409:8087:7001:20:3::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/index.m3u8
+CCTV-15 音乐,http://[2409:8087:7001:20:3::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8
+cctv-4K超高清,https://yang-1989.eu.org/live/cctv4k
 
 #📺卫视频道·IPv6
 #EXTINF:-1 tvg-id="B01" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" group-title="卫视频道·IPv6",湖南卫视
